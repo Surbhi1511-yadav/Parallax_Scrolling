@@ -53,3 +53,14 @@ section{
     justify-content: center;
     align-items: center;
 }
+section #text{
+    position: absolute;
+    color: #094b65;
+    font-size: 10vw;
+    text-align: center;
+}
+section #text span{
+    font-size: 0.20vw;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
