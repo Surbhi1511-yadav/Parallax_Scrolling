@@ -41,7 +41,7 @@ body{
     padding: 6px 15px;
     color: #094b65;
 }
-#header ul li a:hover{
+#header ul li a:hover,#header ul li a.active{
     background: #094b65;
     color: #fff;
 }
