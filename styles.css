@@ -6,3 +6,24 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+body{
+    overflow: hidden;
+    background: #fff;
+    min-height: 100vh;
+}
+#header{
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header .logo{
+    color: #094b65;
+    font-weight: 600;
+    font-size: 2rem;
+    text-decoration: none;
+}
