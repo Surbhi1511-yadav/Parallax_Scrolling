@@ -45,7 +45,8 @@ body{
     /* cursor: pointer; */
 }
 #header ul li a:hover,
-#header ul li a.active{
+#header ul li a.active
+{
     background: #094b65;
     color: #fff;
     cursor: pointer;
