@@ -69,3 +69,12 @@ section #text span{
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
 }
+#btn{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    background: #fff;
+    color: #094b65;
+    font-size: 1.2em;
+    font-weight: 500;
+}
