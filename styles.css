@@ -27,3 +27,21 @@ body{
     font-size: 2rem;
     text-decoration: none;
 }
+#header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#header ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+#header ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #094b65;
+}
+#header ul li a:hover{
+    background: #094b65;
+    color: #fff;
+}
