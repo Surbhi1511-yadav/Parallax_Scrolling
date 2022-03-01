@@ -5,12 +5,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    
 }
 body{
     overflow: hidden;
     background: #fff;
     min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
 }
 #header{
     position: absolute;
@@ -66,4 +67,5 @@ section #text span{
     font-size: 0.20em;
     letter-spacing: 2px;
     font-weight: 400;
+    font-family: 'Poppins', sans-serif;
 }
