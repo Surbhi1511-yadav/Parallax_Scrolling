@@ -49,3 +49,26 @@ body{
     background: #094b65;
     color: #fff;
 }
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section #text{
+    position: absolute;
+    color: #094b65;
+    font-size: 10vw;
+    text-align: center;
+    line-height: 0.55;
+    font-family: 'Rancho', cursive;
+}
+section #text span{
+    font-size: 0.20em;
+    letter-spacing: 2px;
+    font-weight: 500;
+    font-family:'Poppins', sans-serif;
+
+}
